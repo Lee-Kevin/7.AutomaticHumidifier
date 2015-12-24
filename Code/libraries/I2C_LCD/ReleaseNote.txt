@@ -1,0 +1,14 @@
+I2C_LCD Library version: v1.12                    20150904
+1. Modify the bug that can't dispaly bitmap when y coordinate is more than 16.
+
+I2C_LCD Library version: v1.11                    20150627
+1. Modify the bug that '\t' can't print.
+
+I2C_LCD Library version: v1.10                    20150625
+1. Add LCD print function.
+2. Edit DeviceAddressConfig example.
+
+I2C_LCD Library version: v1.00                    20140706
+1. Initial public release.
+
+
